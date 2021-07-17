@@ -71,7 +71,7 @@
 .section-players{
     width: 1100px;
     position: relative;
-    left: 770px;
+    left: 300px;
     margin-top: 40px; 
     justify-content: center;  
     display: grid; 
